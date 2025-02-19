@@ -51,7 +51,7 @@
   <a href="https://www.instagram.com/nikipaspaltzis/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href=".paspa" target="_blank">
+  <a href="discordapp.com/users/.paspa" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="oliver.paspaltzis@gmail.com" target="_blank">
