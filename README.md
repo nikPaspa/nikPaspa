@@ -54,7 +54,7 @@
   <a href="https://www.discordapp.com/users/.paspa" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="mailto:oliver.paspaltzis@gmail.com">Enviar e-mail</a>
+  <a href="mailto:oliver.paspaltzis@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://br.linkedin.com/in/nikolas-paspaltzis-2aa63b1b3" target="_blank">
