@@ -1,7 +1,7 @@
 <h2 align="center">Hello! 👋 I am Nikolas Paspaltzis</h2>
 
 <p align="center">
- Passionate about development and technology. Currently focused on PHP.
+ Passionate about development and technology. Currently focused on PHP and Python.
 </p>
 
 ---
