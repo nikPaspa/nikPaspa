@@ -35,7 +35,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=oracle" height="30" alt="oracle logo"  />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="30" alt="ubuntu logo"  />
 </div>
 
 ---
